@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mad-ist.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning c.
+- 🌱 I’m currently learning c, git and python.
 - 💞️ I’m looking to collaborate on games..
 - 📫 don't reach me.
 
