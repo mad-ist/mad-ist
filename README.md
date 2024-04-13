@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning c, git and python.
 - 💞️ I’m looking to collaborate on games..
-- 📫 don't reach me.
+- 📫 feel free to reach me.
 
 <!---
 mad-ist/mad-ist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
